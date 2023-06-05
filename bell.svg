@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Notification" width="25" height="25" viewBox="0 0 25 25">
+    <defs>
+        <style>
+            .cls-1{fill:#fff;opacity:0}.cls-2{fill:#4c4a4a}
+        </style>
+    </defs>
+    <path id="Rectangle_6268" d="M0 0h25v25H0z" class="cls-1" data-name="Rectangle 6268"/>
+    <path id="notification-2" d="M295.227 415.321a7.49 7.49 0 0 1-2.8-5.747v-2.2c0-3.63-2.208-5.9-5.948-6.063h-.129c-3.7.165-5.907 2.431-5.907 6.062v2.167a7.5 7.5 0 0 1-2.8 5.777 1.236 1.236 0 0 0 .8 2.177h4.259a3.882 3.882 0 0 0 7.468 0h4.26a1.236 1.236 0 0 0 .8-2.177zm-8.8 3.143a2.034 2.034 0 0 1-1.728-.971h3.456a2.034 2.034 0 0 1-1.728.97zm-.012-2.819l-6.479.005a9.327 9.327 0 0 0 2.347-6.075v-2.2c0-2.674 1.393-4.092 4.113-4.214h.055c2.734.129 4.121 1.546 4.121 4.214v2.225a9.3 9.3 0 0 0 2.347 6.046z" class="cls-2" data-name="notification" transform="translate(-273.7 -398.316)"/>
+</svg>
